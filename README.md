@@ -1,2 +1,2 @@
-# Azurite
+# Discord Bot Template
  
