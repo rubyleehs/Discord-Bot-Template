@@ -2,7 +2,7 @@
  
 How to use:
 
-Just add the commands you want if the commands folder.
+Just add the commands you want in the commands folder.
 See example.js.
 
 You may call the command by simply typing the bot prefix followed by the command filename.
